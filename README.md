@@ -8,7 +8,7 @@ a set of sensible configurations for languages and tools i use in [LazyVim](http
 
 adds rust support based around [`simrat39/rust-tools.nvim`](https://github.com/simrat39/rust-tools.nvim).
 
-### pigeon_conf.lang.python
+### `pigeon_conf.lang.python`
 
 adds python support based around [`HallerPatrick/py_lsp.nvim`](https://github.com/HallerPatrick/py_lsp.nvim).
 
