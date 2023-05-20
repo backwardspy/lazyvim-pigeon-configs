@@ -12,6 +12,10 @@ adds rust support based around [`simrat39/rust-tools.nvim`](https://github.com/s
 
 adds python support based around [`HallerPatrick/py_lsp.nvim`](https://github.com/HallerPatrick/py_lsp.nvim).
 
+### `pigeon_conf.lang.nix`
+
+adds nix support with the [`nil`](https://github.com/oxalica/nil) language server and [`alejandra`](https://kamadorueda.com/alejandra/) formatter.
+
 ## usage example
 
 ```lua
@@ -28,6 +32,7 @@ require("lazy").setup({
     "backwardspy/lazyvim-pigeon-configs",
     { import = "pigeon_conf.lang.rust" },
     { import = "pigeon_conf.lang.python" },
+    { import = "pigeon_conf.lang.nix" },
   },
 
   ...
