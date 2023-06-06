@@ -12,6 +12,10 @@ adds rust support based around [`simrat39/rust-tools.nvim`](https://github.com/s
 
 adds python support based around [`HallerPatrick/py_lsp.nvim`](https://github.com/HallerPatrick/py_lsp.nvim).
 
+### `pigeon_conf.lang.go`
+
+adds go support based around [`ray-x/go.nvim`](https://github.com/ray-x/go.nvim).
+
 ### `pigeon_conf.lang.nix`
 
 adds nix support with the [`nil`](https://github.com/oxalica/nil) language server and [`alejandra`](https://kamadorueda.com/alejandra/) formatter.
